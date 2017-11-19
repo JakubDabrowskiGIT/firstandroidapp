@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">FirstAndroidApp</string>
-    <string name="napis">Witaj świecie!</string>
-    <string name="opis1">Wilk Szary (lac. Canis Lupus)</string>
+    <string name="description1">Witaj świecie!</string>
+    <string name="description2">Wilk Szary (lac. Canis Lupus)</string>
 
 
-    <string name="opis2">Włochy, Rzym ( łac. Roma) </string>
+    <string name="description3">Włochy, Rzym ( łac. Roma) </string>
 
 </resources>

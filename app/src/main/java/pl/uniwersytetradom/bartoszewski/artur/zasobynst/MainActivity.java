@@ -22,18 +22,18 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void opis2 (View view) {
-        pic.setImageResource(R.drawable.wilk01);
-        title.setText(R.string.opis1);
-    }
-
-    public void opis1 (View view) {
+    public void description1 (View view) {
         pic.setImageResource(R.drawable.images);
-        title.setText(R.string.napis);
+        title.setText(R.string.description1);
     }
 
-    public void opis3 (View view) {
+    public void description2 (View view) {
+        pic.setImageResource(R.drawable.wilk01);
+        title.setText(R.string.description2);
+    }
+
+    public void description3 (View view) {
         pic.setImageResource(R.drawable.italy);
-        title.setText(R.string.opis2);
+        title.setText(R.string.description3);
     }
 }
